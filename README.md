@@ -1,7 +1,7 @@
 # Software Engineer 
 
 ## Education
-- Bachelor of Science in Computer Science | University of California, Irvine (2024)
+- B.S. Computer Science | University of California, Irvine (2024)
 
 ## Projects
 **Neural Hivemind | PyTorch, PyTorch Lightning, scikit-learn, NumPy, Weights & Biases (Apr - Jun 2024)**
