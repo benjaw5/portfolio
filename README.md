@@ -1,7 +1,16 @@
 # Software Engineer 
 
+## Technical Skills
+- Languages: Java, Python, C/C++, SQL, JavaScript
+- Frameworks: React, Node.js, Flask, JUnit
+- Developer Tools: Git, VS Code, PyCharm, IntelliJ, Eclipse
+- Libraries: pandas, NumPy, Matplotlib
+- Databases: MySQL, PostgreSQL, Cassandra, MongoDB, Couchbase, Spark
+
+
 ## Education
-- [B.S. Computer Science | University of California, Irvine (2024)]
+- B.S. Computer Science | University of California, Irvine (2024)
+
 
 ## Projects
 **Neural Hivemind | PyTorch, PyTorch Lightning, scikit-learn, NumPy, Weights & Biases (Apr 2024 - Jun 2024)**
