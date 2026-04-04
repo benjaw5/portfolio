@@ -1,10 +1,10 @@
 # Software Engineer 
 
 ## Education
-- B.S. Computer Science | University of California, Irvine (2024)
+- [B.S. Computer Science | University of California, Irvine (2024)]
 
 ## Projects
-**Neural Hivemind | PyTorch, PyTorch Lightning, scikit-learn, NumPy, Weights & Biases (Apr - Jun 2024)**
+**Neural Hivemind | PyTorch, PyTorch Lightning, scikit-learn, NumPy, Weights & Biases (Apr 2024 - Jun 2024)**
 - Developed and implemented a Segmentation CNN model for identifying settlements lacking electricity in satellite
 imagery
 - Built a data pipeline using PyTorch Lightning, including preprocessing, augmentation, and training/validation
